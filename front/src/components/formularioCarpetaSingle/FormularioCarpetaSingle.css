@@ -1,0 +1,14 @@
+.texto{
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -o-pre-wrap;
+}
+
+.form__button{
+    margin-top: 10px !important;
+    display: flex !important;
+    justify-content: flex-end !important;
+}
+.form__button > button{
+    margin-left: 5px;
+}

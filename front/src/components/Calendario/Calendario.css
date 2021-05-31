@@ -1,0 +1,10 @@
+/* style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no" */
+
+.calendario{
+    border: solid 1px #777;
+    display: flex;
+    width: 90vw;
+    height: 80vh;
+    margin: auto;
+
+}

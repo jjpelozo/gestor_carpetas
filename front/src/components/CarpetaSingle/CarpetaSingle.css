@@ -1,0 +1,38 @@
+.carpetaSingle {
+  width: 70%;
+  margin: auto;
+}
+
+.carpetaSingle__titulo {
+  display: flex;
+  justify-content: space-evenly;
+  border: 1px solid grey;
+  margin-bottom: 5px;
+}
+
+.carpetaSingle__info {
+  display: flex;
+  justify-content: space-evenly;
+  border: 1px solid grey;
+  margin-bottom: 5px;
+}
+
+.carpetaSingle__comentarios {
+  display: flex;
+  justify-content: flex-start;
+  border: 1px solid grey;
+  margin-bottom: 5px;
+}
+
+.carpetaSingle__Button {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px !important;
+  margin-right: 10px !important;
+}
+
+.carpetaSingle__formComentarios{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

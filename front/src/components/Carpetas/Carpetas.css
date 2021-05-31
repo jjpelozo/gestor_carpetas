@@ -1,0 +1,53 @@
+.carpetas {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 95%;
+  margin: auto;
+}
+
+.carpetas__center{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.carpetas__table > tr > th {
+  border-bottom: solid 1px #808080;
+}
+
+.carpetas__table > tr > td {
+  border-bottom: solid 1px #808080;
+  font-size: 15px;
+}
+.carpetas__th {
+  background-color: #808080;
+  height: 40px;
+  font-size: 20px;
+}
+
+.carpetas__td {
+  text-align: center;
+  height: 35px;
+  font-size: 20px;
+}
+
+.carpetas__button {
+    display: block;
+}
+
+a {
+  margin: 10px;
+}
+.carpetas__verCarpetas {
+  height: 30px;
+  width: 100%;
+  border-radius: 20px !important;
+  margin-top: 1px !important;
+  margin-bottom: 1px !important;
+  font-size: 12px !important;
+}
+
+.carpetas__verCarpetasTitulos {
+  width: auto;
+}
