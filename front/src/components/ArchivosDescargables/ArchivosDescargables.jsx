@@ -8,7 +8,7 @@ function ArchivosDescargables() {
     <div>
       <h2>Documentos para descargar</h2>
       <a href={Jesus} download="CV Jesus">
-        Cv de Jesus Pelozo
+        Carta Documento
       </a>
     </div>
   );
